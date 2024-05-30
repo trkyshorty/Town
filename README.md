@@ -4,4 +4,4 @@ Town Knight Online için hazırlanmış örnek bir DLL projesidir. Oyuna inject 
 
 ## Discord
 
-[Discord'a Git](https://discord.gg/5pBp2s2NUr)
+[Discord'a Git](https://discord.gg/GaAYYzKs5k)
